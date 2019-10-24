@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+tr:nth-child(even) {
+    background-color: #82E0AA;
+}
+</style>
+<body>
+<form>
+<table border="1" align="center" >
+<tr bgcolor="#CACFD2">
+<th>Id</th>
+<th>Name</th>
+<th>Major</th>
+</tr>
+<tr>
+<td>1001</td>
+<td>Jehanat</td>
+<td>Python</td>
+</tr>
+<tr>
+<td>1002</td>
+<td>Shresth</td>
+<td>Java</td>
+</tr>
+<tr>
+<td>1003</td>
+<td>Saba</td>
+<td>Maths</td>
+</tr>
+<tr>
+<td>1004</td>
+<td>Janani</td>
+<td>Social</td>
+</tr>
+</table>
+</form>
+</body>
+</html>
+

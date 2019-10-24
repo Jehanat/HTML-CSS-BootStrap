@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+div.red {
+  position: absolute;
+  left: 0px;
+  border: 3px solid #000000;
+padding: 80px;
+  background-color: #FC0E0E;
+color: white;
+}
+
+div.green {
+  position: absolute;
+  right: 0px;
+  border: 3px solid #000000;
+  padding: 80px;
+  background-color: #38EA1F;
+color: white;
+}
+
+div.gray {
+  position: absolute;
+  right: 47%;
+  top: 48%;
+  border: 3px solid #000000;
+  padding: 80px;
+  background-color: #B2B0B0;
+color: white;
+}
+
+div.blue {
+  position: absolute;
+  left: 0px;
+  bottom: 0px;
+  border: 3px solid #000000;
+  padding: 80px;
+  background-color: #205BF9;
+color: white;
+}
+
+div.purple {
+  position: absolute;
+  right: 0px;
+bottom: 0px;
+  border: 3px solid #000000;
+  padding: 80px;
+  background-color: #9042FC;
+color: white;
+}
+
+</style>
+</head>
+<body>
+
+<div class="red">
+Red
+</div>
+
+<div class="green">
+Green
+</div>
+
+<div class="gray">
+Gray
+</div>
+
+<div class="blue">
+Blue
+</div>
+
+<div class="purple">
+Purple
+</div>
+
+</body>
+</html>
